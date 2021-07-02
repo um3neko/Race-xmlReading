@@ -48,7 +48,7 @@ namespace TestProject1
             runners = deserializer.DeserializToList();
             foreach (var e in runners)
             {
-                Assert.AreNotEqual(zero, e.Name);
+                Assert.AreNotEqual(zero, e.Age);
             }
         }
 
