@@ -5,34 +5,34 @@
     <Age>18</Age>
     <Weight>70</Weight>
     <AvrSpeed>13.5</AvrSpeed>
-    <RunnerDistance>0</RunnerDistance>
+    
   </Runner>
   <Runner>
     <Name>Dima</Name>
     <Age>19</Age>
     <Weight>65</Weight>
     <AvrSpeed>14.6</AvrSpeed>
-    <RunnerDistance>0</RunnerDistance>
+    
   </Runner>
   <Runner>
     <Name>Oleg</Name>
     <Age>25</Age>
     <Weight>67</Weight>
     <AvrSpeed>15.5</AvrSpeed>
-    <RunnerDistance>0</RunnerDistance>
+    
   </Runner>
   <Runner>
     <Name>Bill</Name>
     <Age>22</Age>
     <Weight>62</Weight>
     <AvrSpeed>16.9</AvrSpeed>
-    <RunnerDistance>0</RunnerDistance>
+    
   </Runner>
   <Runner>
     <Name>Andrew</Name>
     <Age>19</Age>
     <Weight>63</Weight>
     <AvrSpeed>16.5</AvrSpeed>
-    <RunnerDistance>0</RunnerDistance>
+   
   </Runner>
 </ArrayOfRunner>
